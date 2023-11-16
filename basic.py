@@ -1,4 +1,5 @@
 # Import the pygame module
+# Source: https://realpython.com/pygame-a-primer/#note-on-sources
 
 import pygame
 # Import random for random numbers
