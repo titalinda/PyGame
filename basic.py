@@ -211,7 +211,7 @@ while running:
     pygame.display.flip()
 
     # Ensure program maintains a rate of 30 frames per second
-    clock.tick(30)
+    clock.tick(50)
 
 # All done! Stop and quit the mixer.
 pygame.mixer.music.stop()
